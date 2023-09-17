@@ -20,3 +20,7 @@ while is_on:
             if mm.make_payment(drink.cost):
                 cm.make_coffee(drink)
 
+
+
+
+#  -------------------------------------------------------------  #
